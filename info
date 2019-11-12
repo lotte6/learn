@@ -1,1 +1,4 @@
 https://github.com/WayneKeenan/RaspberryPi_BTPAN_AutoConnect
+
+apt install fcitx fcitx-googlepinyin fcitx-module-cloudpinyin fcitx-sunpinyin vim 
+
