@@ -326,3 +326,43 @@ labatori		|	洗手间
 bakante			|	空的
 okupado			|	使用中
 pagdating		|	到达
+<br>|<br>
+<br>|<br>
+ako ay turista					|	我是游客
+binabalak kong tumigil ng 1 araw		|	我计划停留一天
+titigil ako sa abc hotel			|	我在abc饭店
+ito ang aking unang pagbisita			|	我是实业家
+saan ko makukuha ang aking bagahe		|	在哪里拿行李
+hindi ko makita ang aking bagahe		|	我找不到我的行李
+ito ang aking kleym tag				|	这个是我的行李牌
+dumating ako lulan ng UA flight number 123	|	我乘坐UA 123 抵达
+wala kakong idedeklara				|	我没有申报的东西
+ang lahat ng ito ay mga pansarili kong gamit	|	这是我个人的行李
+ito ay isang alaala na aking dadalhin sa China	|	这是我要带到中国的纪念品
+paki lagay sa imabakan ng mga bagahe		|	把行李放在存放处
+puwede ba akong humingi ng resibo		|	可以给我一张行李保管收据么？
+customs declaration form			|	报关单
+deklarasyon ng salaping hawak			|	货币申报
+traveler's tsek					|	旅行支票
+walang buwis na paninda				|	免税货物
+pabango						|	香水
+alahas						|	珠宝
+saan ako puwedeng magpapalit ng pera		|	在哪换钱
+hanggang anong oras bukas ang banko		|	银行几点关门
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
