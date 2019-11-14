@@ -349,8 +349,23 @@ pabango						|	香水
 alahas						|	珠宝
 saan ako puwedeng magpapalit ng pera		|	在哪换钱
 hanggang anong oras bukas ang banko		|	银行几点关门
-
-
+salaping papel					|	纸币
+bariya						|	硬币
+may bus bang patungo sa siyudad			|	有去市内的汽车吗？
+saan ako puwedeng kumuha ng bus（taksi）	|	公共汽车站在哪
+ikuha mo ako ng taga buhat.			|	请叫以为搬运工来
+pakidala itong bagahe sa hintayan ng taksi	|	请把行李搬到出租汽车那
+pakihatid ako sa ... hotel			|	请去。。。饭店
+paki hatid ako sa lugar na ito			|	请带我去这个地方
+papunta ba sa ... hotel itong bus		|	这辆公交车去。。。饭店么？
+saan ako maaaring bumili ng tiket		|	我在哪里能买到票呢
+sa akin itong bagahe				|	这是我的行李
+magkano ito					|	多少钱
+<br>|<br>
+<br>|<br>
+pakidala itong bagahe sa kawnter ng(KAL,JAL)	| 	请把行李搬到（。。。）前台
+nasaan ang check-in counter ng ... airlines?	| 	机场前台在哪里？
+sa none smoking na upuan			|	我要非吸烟区座位
 
 
 
