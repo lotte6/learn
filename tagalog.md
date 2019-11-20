@@ -366,7 +366,43 @@ magkano ito					|	多少钱
 pakidala itong bagahe sa kawnter ng(KAL,JAL)	| 	请把行李搬到（。。。）前台
 nasaan ang check-in counter ng ... airlines?	| 	机场前台在哪里？
 sa none smoking na upuan			|	我要非吸烟区座位
-
+tabing bintana (pasilyo) po			|	我要靠窗户（过道）的座位
+aalis ba ito sa tamang oras			|	这架飞机能准时起飞吗？
+gaano katagal itong maaantala(madidiley)	|	晚点多久？
+gusto kong ireconfirm ang aking reserbasyong	|	我想再确认一下我的预约
+(UA flight 808) sa (hulyo diyes)		| 	是（7月10号）的（UA808)
+gusto kong palitan ang aking reserbasyon	|	我想变更我的预约
+anong oras ang boarding				|	几点登机？
+pakitanong ang ibang kumpanya ng eroplano	|	请检查别的航班
+pakikansel itong reserbasiyon			|	请取消这个预约
+pakireserba ang susunod na flight		|	请预约我可以乘坐的下一航班
+may tatlong pirasong bagahe ako			|	我有3件行李
+magkano ang dapat ibayad sa sobrang bagahe	|	行李超过部分付多少钱
+anong bilang ang geyt				|	门号是多少
+saan ang geyt					|	6号门在哪里
+ako ay padaan patungong	...			|	我是去...转机的乘客
+ang reserbasyon ay nakompirma sa (Seoul)	|	预约已经在（寒碜国）确认了
+saan ko maitsetsek in ang aking mga bagahe	|	哪里可以取行李
+pook ng babaan					|	达成场所
+kumpanya ng eroplano				|	航空公司
+terminal sa lungsod				|	市内终点站
+serbisyong internasyonal			|	国际航班
+serbsyong lokal					|	国内航班
+silid hintayan					|	候机室
+impormasyon					|	服务台
+timetable					|	时间表
+flight number					|	航班号
+numero ng upuan					|	座位号
+makapipili ng upuan				|	自由坐席
+ticket sa eroplano				|	飞机票
+kleym tag					|	行李凭证
+bording pass					|	登机牌
+paliparang buwis（airport tax）			|	场地费
+tindahagn duty free				|	免税商店
+<br>|<br>
+<br>|<br>
+ang pangalan ko ay...may reserbasyong ako
+para ngayong gabi				|	我是...，我今晚在这里预约了
 
 
 
