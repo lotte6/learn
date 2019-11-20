@@ -401,8 +401,7 @@ paliparang buwis（airport tax）			|	场地费
 tindahagn duty free				|	免税商店
 <br>|<br>
 <br>|<br>
-ang pangalan ko ay...may reserbasyong ako
-para ngayong gabi				|	我是...，我今晚在这里预约了
+ang pangalan ko ay...may reserbasyong ako <br> para ngayong gabi	|	我是...，我今晚在这里预约了
 
 
 
