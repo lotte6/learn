@@ -402,6 +402,44 @@ tindahagn duty free				|	免税商店
 <br>|<br>
 <br>|<br>
 ang pangalan ko ay...may reserbasyong ako <br> para ngayong gabi	|	我是...，我今晚在这里预约了
+makano ang kwarto				|	房钱是多少
+kailangan mo ba ng deposito			|	你需要押金吗
+mayroon bang mas mura				|	有么有便宜点的
+gusto ko ng tahimik na silid			|	我需要安静点的房间
+puwede bang bigyan mo ako ng silid ngayong gabi |	今晚能投宿么
+gusto kko ng silid na may banyo			|	我要带浴室的房间
+gusto ko ng silid na pang-dalawahan		|	我要带双人床的房间
+anong oras ang check out?			|	什么时候退房？
+kasama ba ang almusal?				|	包括早餐么？
+gusto kong manatili ng isang araw pa		|	我想再多住一天
+gusto kong umalis isang araw gago ang katakdaan	|	我想早一天退房
+aalis ako ng ... bukas				|	明天早上。。。点出发
+pakitago naman itong bagahe hanggang 。。。	|	情报这行李包保管到。。。点
+pakituruan mo ako ng paggamit ng telepono	|	请告诉我怎样使用这个电话
+pakibigyan mo ako ng tarhetang hotel		|	请给我一张折返点的名片
+gusto kong palitan ang aking kwarto		|	我想换房间
+pakitawagan ang isang room boy			|	请叫服务生
+walang sabon（tuwalya）				|	没有香皂（毛巾）
+pakigising ako bukas ng ... ng umaga		|	明天早晨。。。点叫醒我
+naiwan ko ang aking susi sa silid ko		|	我把钥匙忘在房间了。
+mayroon akong labakin				|	请拜托洗衣服。
+pakipalantsa ito				|	请熨烫这件衣服
+kailan ito matatapos				|	什么时候完
+hinihintay ko ang aking mga pinalabhan		|	我的衣服还没回来
+kamiseta					|	衬衫
+blusa						|	女衬衫
+damit pang loob					|	内衣
+pantalong					|	裤子
+paldan						|	裙子
+medyas						|	袜子
+terno						|	西服
+gupit lang po ng buhok				|	请给我理发
+pakiigsian lang					|	请给我剪短
+pakitrim lang					|	请洗剪一下
+pakiayos na kagaya ng dati			|	请剪成这个发型
+pakiitim mo ang buhok ko			|	请把我的头发染黑
+langis shampu					|	油香波
+gupit ng buhok					|	理发
 
 
 
