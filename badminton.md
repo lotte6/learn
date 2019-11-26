@@ -14,9 +14,8 @@ cork base  | 球托 | (羽毛球的软木部分)
 crown of feathers  | 羽毛圈 | (羽毛球的羽毛部分)
 broken shuttle  | 坏球
 plastic shuttle  | 塑料羽毛球
-
- 
-
+<br>|<br>
+<br>|<br>
 II． | 场地用语
 1、 | 关于场区
 court  | 球场
@@ -36,8 +35,8 @@ right court  | 右场区
 right service court  | 右发球区
 alley  | 单打线和双打线之间的细长地带
 back alley  | 单打端线和双打端线之间的细长地带
-
-
+<br>|<br>
+<br>|<br>
 2、 | 关于场地线条
 back boundary line, backcourt boundary | 端线 | (单打后发球线)
 base line  | 端线
@@ -51,9 +50,8 @@ front service line, short service line  | 前发球线
 rear service line, long service line | ( | 双打)后发球线
 net post  | 网柱
 net tape, white tape, band | 网顶白布条
-
- 
-
+<br>|<br>
+<br>|<br>
 III． | 击球技术用语
 1、 | 关于握拍
 forehand  | 正拍
@@ -61,8 +59,8 @@ backhand  | 反拍
 grip  | 握拍法
 backhand grip  | 反手握法
 forehand grip  | 正手握拍法
-
-
+<br>|<br>
+<br>|<br>
 2、 | 关于击球动作与球路
 backswing  | 往后撤拍 | (准备击球)
 deception  | 假动作
@@ -90,7 +88,8 @@ return | 回球
 retrieve  | 救球
 rushing ① | 冲上网②扑球
 sliding step  | 滑步
-
+<br>|<br>
+<br>|<br>
 Footwork | 步法
 Drop shot  | 吊球
 Drive  | 平击球、平抽球
@@ -98,7 +97,6 @@ Net play  | 网前击球 | (技术)
 Net shot | 网前放小球、网前搓球
 Net Kill  | 网前扑球
 Net Lift | 网前挑球 | (推后场)
-
 clear  | 平高球
 high clear  | 高远球
 cross-court  | 斜线球
@@ -112,8 +110,8 @@ low shot  | 低平球
 straight  | 直线球
 descent  | ( | 球)下降
 flight  | ( | 球)飞行
-
-
+<br>|<br>
+<br>|<br>
 3、 | 关于发接发
 High serve | 发高球
 Deep high service, long high service | 发高远球
@@ -124,15 +122,14 @@ Drive serve, flat service | 发低平球 | (比平高球要低些)
 serve deep  | 发深球 | (发至后场的球)
 long service  | 发远球 | (发至后场的球)
 return of service  | 接发球
-
-
+<br>|<br>
+<br>|<br>
 4、 | 其它
 abnormal flight | ( | 球)飞行不正常
 accuracy of placement  | 落点的准确性
 miss  | 击球未中
-
- 
-
+<br>|<br>
+<br>|<br>
 IV．  | 战术用语
 front and back  | ( | 双打)前后站位打法 | (常用于混双)
 rotation system  | ( | 双打)轮转配合打法
@@ -143,9 +140,8 @@ net play  | 网前打法
 pairing  | ( | 双打)配对
 partner  | ( | 双打)同伴
 players’ positions  | 队员方位
-
- 
-
+<br>|<br>
+<br>|<br>
 V．  | 规则用语
 1、  | 一般规则
 game  | 局 | (一般一场比赛有三局)
@@ -160,8 +156,8 @@ men's singles | 男单
 men's doubles | 男双
 women's singles | 女单
 women's doubles | 女双
-
-
+<br>|<br>
+<br>|<br>
 2、 | 比赛过程
 Change the server, alternate in serving  | 换发球
 change courts  | 交换场地
@@ -179,8 +175,8 @@ out | ( | 球)在界外
 receiving side  | 接发球一方
 second server  | ( | 旧规则的双打)第二发球
 Service over!  | ( | 单打)换发球
-
-
+<br>|<br>
+<br>|<br>
 3、 | 犯规用语
 racket head above the hand  | 拍框上沿高于手 | (发球犯规)
 serving above the waist  | 高于腰部的发球 | (发球犯规)
