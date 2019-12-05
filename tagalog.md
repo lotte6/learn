@@ -440,8 +440,69 @@ pakiayos na kagaya ng dati			|	请剪成这个发型
 pakiitim mo ang buhok ko			|	请把我的头发染黑
 langis shampu					|	油香波
 gupit ng buhok					|	理发
-
-
+<br>|<br>
+part 7|<br>
+mayroon ka bang mairerekomendang restoran<br>na malapit dito? | 你能介绍一下附近的好饭馆吗？
+lyong lugar na hindi masyadong mahal		|	我找不太贵的饭馆
+gusto ko sa restoran na salita ay ingles 	|	我喜欢可以讲英语的饭馆
+ano ang lutuing espesyal sa restoran na ito	|	这个饭馆的拿手菜是什么？
+pagkaing italyano				|	意大利菜
+pagkaing intsik					|	中国菜
+pagkaing pranses				|	法国菜
+pagkaing hapon					|	日本菜
+kakainin ko ang anumang irekomenda mo		|	我吃你推荐的菜
+puwede bang maihain agad?			|	马上就做好吗？
+ito ang sa akin					|	我要这个
+mayroon bang espesyal na pagkain（menu）ngayon？|	今天有特别菜吗？
+paano mo kakainin ito				|	这该怎么吃
+tama na, maraming salamat			|	谢谢，不要了
+maraming salamat, masarap ang pagkain		|	谢谢，味道不错
+almusal(agahan)					|	早饭
+tanghalian					|	午饭
+hapunan						|	晚饭		
+<br>|<br>
+part 8|<br>
+pakituro mo sa akin ang daan patungo sa...	|	请问。。。怎么走
+mayroon bang malapit na post office dito?	|	这附近有邮局么
+malayo ba ang hotel dito?			|	。。。饭店离这里远么？
+gaano katagal mula dito？			|	需要多长时间
+anong kalye ito					|	这条街叫什么名字
+ano ang gusaling iyon				|	那个建筑物是什么
+pakiguhit ng mapa patungo sa。。。		|	请我诉我途中的地标
+pakibanggit ang isang palatandaan patungo doon	|	请告诉我途中的地标
+silangan	|	东
+kanluran	|	西
+timog		|	南
+hilaga/norte	|	北
+harap		|	前
+likod		|	后
+tabi		|	傍边
+sa dakong ito	|	这边
+kabilang dako	|	对面
+bloke		|	街区
+kalye/abenida	|	道，马路
+lansangan	|	林荫路
+tabing daan	|	人行道
+tawiran ng tao	|	人行横道
+tawiran		|	十字路口
+tulay		|	桥
+signal trapiko	|	交通喜好
+tandang daan	|	路牌
+istasyon ng pulls |	派出所
+pulis		|	警察
+pampuklikong telepono|公用电话
+simbahan	|	教堂
+templo		|	寺院
+unibersidad（pamantasan）/kolehiyo|	大学
+kabayanan	|	市内、市中心
+orasang tore	|	钟楼
+plasa		|	广场
+pontanya	|	喷泉
+isatadyum	|	运动场
+ilog		|	河
+liwasan		|	公园
+gusaling siyudad|	市政厅
+isatasyon ng tren|	地铁站
 
 
 
