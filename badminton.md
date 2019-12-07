@@ -47,7 +47,7 @@ outside side line  | (单双打线都有的场地)双打边线
 corners of backcourt  | 后场两角
 doubles service line  | 双打发球线
 front service line, short service line  | 前发球线
-rear service line, long service line | ( | 双打)后发球线
+rear service line, long service line | (双打)后发球线
 net post  | 网柱
 net tape, white tape, band | 网顶白布条
 <br>|<br>
