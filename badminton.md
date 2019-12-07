@@ -42,8 +42,8 @@ back boundary line, backcourt boundary | 端线 | (单打后发球线)
 base line  | 端线
 centre line, mid court line  | 中线
 side line, side boundary line  | 边线
-inside side line  | ( | 单双打线都有的场地)单打边线
-outside side line  | ( | 单双打线都有的场地)双打边线
+inside side line  | (单双打线都有的场地)单打边线
+outside side line  | (单双打线都有的场地)双打边线
 corners of backcourt  | 后场两角
 doubles service line  | 双打发球线
 front service line, short service line  | 前发球线
@@ -64,7 +64,7 @@ forehand grip  | 正手握拍法
 2、 | 关于击球动作与球路
 backswing  | 往后撤拍 | (准备击球)
 deception  | 假动作
-preliminary feint  | ( | 发球时的)假动作
+preliminary feint  | (发球时的)假动作
 delivery of service  | 发球动作
 full strike  | 全力击球
 full swing  | 全力挥拍
@@ -108,8 +108,8 @@ lift  | 近网挑球
 hairpin shot  | 夹发针球 | (在网前贴近地面的轻挑短球)
 low shot  | 低平球
 straight  | 直线球
-descent  | ( | 球)下降
-flight  | ( | 球)飞行
+descent  | (球)下降
+flight  | (球)飞行
 <br>|<br>
 <br>|<br>
 3、 | 关于发接发
@@ -125,20 +125,20 @@ return of service  | 接发球
 <br>|<br>
 <br>|<br>
 4、 | 其它
-abnormal flight | ( | 球)飞行不正常
+abnormal flight | (球)飞行不正常
 accuracy of placement  | 落点的准确性
 miss  | 击球未中
 <br>|<br>
 <br>|<br>
 IV．  | 战术用语
-front and back  | ( | 双打)前后站位打法 | (常用于混双)
-rotation system  | ( | 双打)轮转配合打法
-half-court shot  | 半场球 | (对付前后站位防守的打法)
+front and back  | (双打)前后站位打法 (常用于混双)
+rotation system  | (双打)轮转配合打法
+half-court shot  | 半场球(对付前后站位防守的打法)
 defense and fight back | 防守反击
 net game  | 网前打法
 net play  | 网前打法
-pairing  | ( | 双打)配对
-partner  | ( | 双打)同伴
+pairing  | (双打)配对
+partner  | (双打)同伴
 players’ positions  | 队员方位
 <br>|<br>
 <br>|<br>
@@ -147,7 +147,7 @@ V．  | 规则用语
 game  | 局 | (一般一场比赛有三局)
 game point  | 局点
 match  | 场
-match point  | 场点、赛点 | (三局两胜制比赛的决胜球)
+match point  | 场点、赛点 (三局两胜制比赛的决胜球)
 linesman  | 司线员
 referee  | 裁判员
 service judge  | 发球裁判员
@@ -173,15 +173,15 @@ deuce  | 局末平分 | (如男子单打的13平)
 in | ( | 球)在界内
 out | ( | 球)在界外
 receiving side  | 接发球一方
-second server  | ( | 旧规则的双打)第二发球
-Service over!  | ( | 单打)换发球
+second server  | (旧规则的双打)第二发球
+Service over!  | (单打)换发球
 <br>|<br>
 <br>|<br>
 3、 | 犯规用语
 racket head above the hand  | 拍框上沿高于手 | (发球犯规)
 serving above the waist  | 高于腰部的发球 | (发球犯规)
 serve from the wrong-service court  | 发球站错方位
-short  | ( | 发球时的)短球
+short  | (发球时的)短球
 touch the net  | 触网
 unclean hit  | 有拖带动作的击球
 double hit  | 连击
