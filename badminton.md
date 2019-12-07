@@ -170,8 +170,8 @@ Love all ,play!  | 零比零，开始比赛！
 Set 2 points!  | 再赛两分！
 Ace, service ace  | 发球得分
 deuce  | 局末平分 | (如男子单打的13平)
-in | ( | 球)在界内
-out | ( | 球)在界外
+in | (球)在界内
+out | (球)在界外
 receiving side  | 接发球一方
 second server  | (旧规则的双打)第二发球
 Service over!  | (单打)换发球
