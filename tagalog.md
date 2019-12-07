@@ -503,6 +503,51 @@ ilog		|	河
 liwasan		|	公园
 gusaling siyudad|	市政厅
 isatasyon ng tren|	地铁站
+mayroon bang malapit na pampublikong<br> kubeta dito?	|	这附近有公测吗？
+nasaan ang cr					| 	洗手间在哪？
+puwede bang gumamit ng inyong cr		|	我可以用洗手间吗？
+lalaki / ginoo					|	男士、绅士
+babae  / binibini				|	女士、淑女
+saan ang hintayan ng taksi			|	出租车站在哪里？
+pakitawag ng taksi para sa akin			|	请叫一辆出租车。
+dito ho sa lugar na ito				|	请去这个地方
+pakiikot nga ho ako sandali sa siyudad		|	请带我观光一下这个城市
+mga magkano ang pamasahe papunta sa ...		|	去。。。大约多少钱？
+paki hintay ako dito sandali			|	请在这里等一会。
+paki tigil dito					|	请停在这里
+magkano ho？					|	多少钱？
+saan ang pinakamalapit na istasyon ng tren	|	附近最近的地铁站在哪？
+saang riles ang papuntang ...?			|	去。。。是（及站台？）几号线。
+pasukan		|	入口
+labasan		|	出口
+transfer gate	|	换乘处
+bilihan ng tiket|	售票处
+saan ang hintayan ng bus papunta sa ...		|	去。。。的汽车站在哪？
+papunta ba ang bus na ito sa ...		|	这两公车去。。。吗？
+magkano ang pamasahe papunta sa 。。。		|	去。。。多少钱
+bababa ako sa susunod na himpilan		|	我下一站下车
+saang istasyong galing ang tren na papuntang	|	去。。。的列车从哪站出发？
+mayrong bang ekspre?				|	有特快列车吗？
+ang tren bang it ay deretso sa 。。。		|	这列车是直达。。。的吗？
+saan ako lilipat				|	我在哪里倒车？
+gaano katagal ang biyahe papunta sa。。。	|	去。。。需要多久？
+saang riles ito magmumula			|	从第几站台发车？
+ito ba ang tren patungo sa ...			|	这是去。。。的火车吗？
+mayroon bang kainan dito？			|	有餐车吗？
+saan itong dinadaanan natin ngayon?		|	我们现在正通过什么地方？
+saan ang susunod na himpilan?			|	下一站是什么地方
+gaano katagal titigil ang tren dito？		|	这站停多长时间？
+istasyon	|	（火车）站
+plataporma	|	站台
+tagabuhat	|	搬运工
+imbakan ng bagahe|	行李存放处	
+treng ordinaryo	|	普客
+espesyal na treng ekspres	|	特备快车
+pang isang sakay na tiket	|	单程票
+balikang tiket			|	往返票
+<br>|<br>
+part 9|<br>
+
 
 
 
