@@ -547,6 +547,75 @@ pang isang sakay na tiket	|	单程票
 balikang tiket			|	往返票
 <br>|<br>
 part 9|<br>
+gusto kong makakuha ng brochure ukol sa mga <br> tanawin sa bayang ito. | 我想要这个城市旅游手册
+sabihin mo naman sa akin ang mga lugar na <br> kawili-wili dito | 请告诉我这里的旅游景点
+gusto kong makita ang ...	|	我想看。。。
+gusto kong pumunta sa。。。	|	我想去。。。
+magkano ang bayad isang araw	|	一天多少钱？
+mayroon bang bus na panglibot sa lungsod	|	有市内旅游车吗？
+mayroon bang bus na maglilibot sa umaga(hapon,gabi) 	|	有上午（下午，晚上）的线路吗
+ano ang makikita ko sa biyaheng ito			|	这次旅行可以看到什么呢？
+gaano katagal ito 		|	需要多长时间
+anong oras ang umpisa nito	|	几点出发？
+saan ako puwedeng bumili ng tiket	|	在哪里买票
+magkano ang halaga ng biyaheng ito	|	费用是多少
+mga bangtog na lugar			|	景点
+mga lugar na makasaysayan		|	名胜古迹
+paligid-lungsod				|	郊区
+museo					|	博物馆
+museo ng sining				|	美术馆
+tanghalan				|	展馆
+paghahayag				|	博览会
+tanghalan、konsiyerto			|	音乐厅
+sinehan、sine				|	剧院、电影院
+tugtuging klasikal			|	古典音乐
+katutubong tugtugin			|	民间音乐
+pambatasang gusali			|	过会议事堂
+simbahan				|	教堂
+katedral				|	天主教堂
+bantayog				|	雕像
+zoo					|	动物园
+harding botanikal			|	植物园
+libingan				|	墓地
+puntod					|	坟墓
+bantayog、monumento			|	纪念碑
+fiesta					|	狂欢节
+larawang post kard			|	明信片
+dagat					|	海洋
+lupa					|	陆地
+baiya					|	港湾
+tangway					|	半岛
+pulo					|	岛
+bundok					|	山
+bulkan					|	火山
+gubat					|	树林
+lawa					|	湖泊
+mainit na bukal				|	温泉
+talon					|	瀑布
+disyerto				|	沙漠
+baybaying dagat				|	海岸
+aplaya					|	海滨
+puwede bang kumuha ng mga litrato dito	|	我可以在这里拍照吗
+puwede bang gumamit ng flash dito	|	我可以在这里用闪光灯吗
+puwede bang kunan mo ako ng litrato?	|	麻烦你帮我拍张照片好吗？
+pakuha naman tayong dalawa ng litrato	|	请跟我一起拍张照好吗？
+puwede bang kunan kita ng litrato	|	我可以给你拍张照么？
+hindi gumaganang mabuti ang shater	|	快门坏了
+puwede bang tingnan mo ito para sa akin	|	您能替我检查一下吗？
+bawal kumuha ng litrato			|	禁止拍照
+bawal ang flash				|	禁止闪光灯
+gusto kong mapanood ang 。。。		|	我想看。。。
+magkano	ang tiket pagpasok		|	入场费多少钱
+anong palabas ngayong			|	现在演什么
+gaano katagal ang palabas		|	要演多久
+pakihatid mo ako sa aking upuan		|	请告诉我的座位在哪里
+kailangan ko ng alalay na nagasasalita ng lngles | 我要（一个会讲英语的）导游
+<br>|<br>
+part 10|<br>
+gusto kong umarkila ng kotse		|	我想租一辆车
+maipapakita mo ba sa akin and listahan <br> ng halaga ng pagarkila |请让我看看你的价目表
+kailangan ko bang magdeposito		|	需要押金吗
+pakibigyan mo ako ng mga lugar na aking <br>matatawagan kung magkaroon ng sakuna|请告诉我发生事故的时候可以联系你的地方
 
 
 
