@@ -129,7 +129,7 @@ tatay(itay)		|	父亲
 bata			|	小孩
 nanay(inay)		|	母亲
 asawang lalaki/asawa	|	丈夫
-asawang babae/maybahay/asawa |	妻子
+asawang babae/<br>maybahay/asawa |	妻子
 kapatid na lalaki	|	兄弟
 kapatid na babae	|	姐妹
 kaibigan/katoto		|	朋友
@@ -348,13 +348,13 @@ walang buwis na paninda				|	免税货物
 pabango						|	香水
 alahas						|	珠宝
 saan ako puwedeng<br> magpapalit ng pera		|	在哪换钱
-hanggang anong oras bukas ang banko		|	银行几点关门
+hanggang anong oras<br> bukas ang banko		|	银行几点关门
 salaping papel					|	纸币
 bariya						|	硬币
 may bus bang patungo<br> sa siyudad			|	有去市内的汽车吗？
 saan ako puwedeng kumuha<br> ng bus（taksi）	|	公共汽车站在哪
 ikuha mo ako ng taga buhat.			|	请叫以为搬运工来
-pakidala itong bagahe sa hintayan ng taksi	|	请把行李搬到出租汽车那
+pakidala itong bagahe<br> sa hintayan ng taksi	|	请把行李搬到出租汽车那
 pakihatid ako sa ... hotel			|	请去。。。饭店
 paki hatid ako sa lugar na ito			|	请带我去这个地方
 papunta ba sa ... hotel itong bus		|	这辆公交车去。。。饭店么？
@@ -417,8 +417,8 @@ aalis ako ng ... bukas				|	明天早上。。。点出发
 pakitago naman itong<br> bagahe hanggang 。。。	|	情报这行李包保管到。。。点
 pakituruan mo ako ng<br> paggamit ng telepono	|	请告诉我怎样使用这个电话
 pakibigyan mo ako ng<br> tarhetang hotel		|	请给我一张折返点的名片
-gusto kong palitan ang aking kwarto		|	我想换房间
-pakitawagan ang isang room boy			|	请叫服务生
+gusto kong palitan<br> ang aking kwarto		|	我想换房间
+pakitawagan ang<br> isang room boy			|	请叫服务生
 walang sabon（tuwalya）				|	没有香皂（毛巾）
 pakigising ako bukas<br> ng ... ng umaga		|	明天早晨。。。点叫醒我
 naiwan ko ang aking<br> susi sa silid ko		|	我把钥匙忘在房间了。
@@ -493,7 +493,7 @@ pulis		|	警察
 pampuklikong telepono|公用电话
 simbahan	|	教堂
 templo		|	寺院
-unibersidad（pamantasan）/kolehiyo|	大学
+unibersidad（pamantasan）<br>/kolehiyo|	大学
 kabayanan	|	市内、市中心
 orasang tore	|	钟楼
 plasa		|	广场
@@ -553,7 +553,7 @@ gusto kong makita<br> ang ...	|	我想看。。。
 gusto kong pumunta<br> sa。。。	|	我想去。。。
 magkano ang bayad<br> isang araw	|	一天多少钱？
 mayroon bang bus<br> na panglibot sa lungsod	|	有市内旅游车吗？
-mayroon bang bus<br> na maglilibot sa umaga(hapon,gabi) 	|	有上午（下午，晚上）的线路吗
+mayroon bang bus<br> na maglilibot<br> sa umaga(hapon,gabi) 	|	有上午（下午，晚上）的线路吗
 ano ang makikita<br> ko sa biyaheng ito			|	这次旅行可以看到什么呢？
 gaano katagal ito 		|	需要多长时间
 anong oras ang<br> umpisa nito	|	几点出发？
@@ -613,7 +613,7 @@ kailangan ko ng alalay<br> na nagasasalita ng lngles | 我要（一个会讲英�
 <br>|<br>
 part 10|<br>
 gusto kong umarkila ng kotse		|	我想租一辆车
-maipapakita mo ba sa akin and listahan <br> ng halaga ng pagarkila |请让我看看你的价目表
+maipapakita mo ba<br> sa akin and listahan <br> ng halaga ng pagarkila |请让我看看你的价目表
 kailangan ko bang magdeposito		|	需要押金吗
 pakibigyan mo ako <br>ng mga lugar na aking <br>matatawagan kung magkaroon <br>ng sakuna|请告诉我发生事故的时候可以联系你的地方
 
